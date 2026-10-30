@@ -1,0 +1,2 @@
+thiss is text3.txt file
+this is my first file
